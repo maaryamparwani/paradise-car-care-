@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="currentColor">
+  <!-- Outer circle outline -->
+  <circle cx="50" cy="50" r="44" stroke="currentColor" stroke-width="4" fill="none" />
+  <!-- Three-pointed star shape -->
+  <path d="M 50 50 L 50 12 L 53.5 48 L 82.9 69 L 50 54 L 17.1 69 L 46.5 48 Z" />
+</svg>
